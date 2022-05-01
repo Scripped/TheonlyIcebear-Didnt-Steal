@@ -20,7 +20,7 @@ But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/term
 
 # Stolen versions
 <hr></hr>
-## 1. ".gg/termed" from Pastebin:
+<h2>1. ".gg/termed" from Pastebin:</h2>
 
 ![GuyFromPasteBin](https://user-images.githubusercontent.com/69485097/166143029-a37645b6-7d5a-4637-a117-2eef5a002b61.JPG)
  
