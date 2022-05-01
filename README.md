@@ -1,5 +1,5 @@
 # TheonlyIcebear-Didnt-Steal
-Proof that this guy made the original
+Proof that this guy made the original, and I'm very sorry for accusing you like that. I should have done more research.
 
 
 # Creation Dates
