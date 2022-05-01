@@ -20,16 +20,10 @@ But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/term
 
 # Stolen versions
 
-<ul>
-<li>".gg/termed" from Pastebin: 
-  <li>
-    https://pastebin.com/D60zAwVa
-  </li>
-  <li>
-    https://pastebin.com/hrMxpVxF
-  </li>
-</li>
-</ul>
+".gg/termed" from Pastebin: 
+> https://pastebin.com/D60zAwVa <br>
+> https://pastebin.com/hrMxpVxF
+
 
 
 <br>
