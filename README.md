@@ -19,11 +19,12 @@ I'm not 100% sure if .gg/termed made the original because I'm not on their disco
 But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/termed stole from TheonlyIcebear.
 
 # Stolen versions
+![GuyFromPasteBin](https://user-images.githubusercontent.com/69485097/166143029-a37645b6-7d5a-4637-a117-2eef5a002b61.JPG)
 
 ".gg/termed" from Pastebin: 
 > https://pastebin.com/D60zAwVa <br>
 > https://pastebin.com/hrMxpVxF
 
-
+<img src="
 
 <br>
