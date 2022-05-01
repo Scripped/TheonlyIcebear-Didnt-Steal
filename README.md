@@ -3,19 +3,23 @@ Proof that this guy made the original
 
 
 # Creation Dates
-He made his on Jan 30.
+### ORIGINAL MADE: Jan 30.
+<br>
+<img src="PROOF/date.JPG" style="width:40%">
+<br>
+### STOLEN ONE BY @SENTHEDEV on Feb 27
+<br>
+<img src="PROOF/date_created_senthedev.JPG"  style="width:40%">
 
-@SenTheDev didn't make his first, he made it after - on Feb 27
+<hr>
 
-<img src="PROOF/date.JPG">
-<img src="PROOF/date_created_senthedev.JPG">
-
-
-#.gg/termed
+# .gg/termed
 
 I'm not 100% sure if .gg/termed made the original because I'm not on their discord.
+But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/termed stole from TheonlyIcebear.
 
-But according to <a href="https://github.com/hoemotion">@hoemotion</a> .gg/termed stole from TheonlyIcebear.
+# Stolen versions
 
-and this guy from pastebin has taken the exact same code from TheonlyIcebear: https://pastebin.com/D60zAwVa
-and I have proof that that guys has something to do with .gg/termed: https://pastebin.com/hrMxpVxF
+This guy from pastebin has taken the exact same code from TheonlyIcebear: https://pastebin.com/D60zAwVa
+<br>
+Proof that he has something to do with .gg/termed: https://pastebin.com/hrMxpVxF
