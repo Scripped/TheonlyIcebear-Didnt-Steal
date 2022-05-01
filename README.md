@@ -27,4 +27,7 @@ But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/term
 > https://pastebin.com/D60zAwVa <br>
 > https://pastebin.com/hrMxpVxF
 
+See how they're the exact same code, only that TheonlyIcebear made it himself and EDITED it before ".gg/termed" copied it.
+![Proof2](https://user-images.githubusercontent.com/69485097/166143243-3fc81f70-b27a-4f3a-a056-fa9a42908fd7.jpg)
+
 <hr>
