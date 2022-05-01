@@ -7,7 +7,7 @@ Proof that this guy made the original
 <br>
 <img src="PROOF/date.JPG" style="width:40%">
 <br>
-### STOLEN ONE BY @SENTHEDEV on Feb 27
+<h3>STOLEN ONE BY @SENTHEDEV on Feb 27</h3>
 <br>
 <img src="PROOF/date_created_senthedev.JPG"  style="width:40%">
 
