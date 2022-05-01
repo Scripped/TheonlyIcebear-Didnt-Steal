@@ -20,6 +20,7 @@ But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/term
 
 # Stolen versions
 
+<ul>
 <li>".gg/termed" from Pastebin: 
   <li>
     https://pastebin.com/D60zAwVa
@@ -28,6 +29,7 @@ But according to <a href="https://github.com/hoemotion">@hoemotion</a>, .gg/term
     https://pastebin.com/hrMxpVxF
   </li>
 </li>
+</ul>
 
 
 <br>
